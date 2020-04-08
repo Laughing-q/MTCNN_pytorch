@@ -1,5 +1,5 @@
 # MTCNN_pytorch
-The difference from the paper is adding batch normalize after convolution.
+The difference from the paper is adding batch normalization after convolution.
 
 ## prerequisites
 
