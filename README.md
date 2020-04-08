@@ -30,6 +30,11 @@ python train_pnet.py
 python train_rnet.py
 python train_onet.py
 ```
+## Webcam Demo:
+```Shell
+python webcam_demo.py 
+```
+
 ## Demo:
 ```Shell
 python demo.py 
