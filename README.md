@@ -10,10 +10,10 @@ The difference from the paper is adding batch normalize after convolution.
 
 ## Datasets
 CeleA.
-### generate data
+### Generate data
 ```Shell
 python gen_data.py 
-# just change the dataset(CeleA) directory in code then run it
+# just change the dataset(CeleA) directory to your own in code then run it
 ```
 ## Training
 ```Shell
