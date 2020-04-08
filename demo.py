@@ -1,10 +1,6 @@
 from modeling.MTCNN import MTCNN
 import torch
 import cv2
-from PIL import Image
-from torch.utils.data import DataLoader
-from torchvision import datasets
-import numpy as np
 import os
 
 workers = 0 if os.name == 'nt' else 4
